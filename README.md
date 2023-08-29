@@ -4,7 +4,7 @@ Aplicație Web :
 
 - 2 tabele MySQL, users (ID, user, password) si points (ID, lat, long, description)
 
-- Pagina de login: pagina va conține două câmpuri user si password cu ajutorul cărora se verifica dacă username-ul si parola introduse de utilizator de regasesc in tabela users). Pagina de asemenea va conține alte două câmpuri user si password cu care utilizatorul se va putea înregistra și implicit scrie cele două valori într-o bază de date. Pe pagina de login se va implementa codul de completare automată cu JQuery din laboratorul 9 pentru câmpul user din secțiunea dedicată utilizatorilor deja înregistrați.
+- Pagina de login: pagina va conține două câmpuri user si password cu ajutorul cărora se verifica dacă username-ul si parola introduse de utilizator de regasesc in tabela users). Pagina de asemenea va conține alte două câmpuri user si password cu care utilizatorul se va putea înregistra și implicit scrie cele două valori într-o bază de date. Pe pagina de login se va implementa codul de completare automată cu JQuery pentru câmpul user din secțiunea dedicată utilizatorilor deja înregistrați.
 
 În baza unei autentificări sau a unei înregistrări reușite, se va trece la următoarea pagină, adică: 
 
