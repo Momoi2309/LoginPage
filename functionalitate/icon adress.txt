@@ -1,0 +1,4 @@
+http://www.google.com/mapfiles/marker.png
+
+
+https://sites.google.com/site/gmapicons/home/  --> site cu markere google maps
